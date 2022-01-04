@@ -40,7 +40,8 @@
 
 ![image](https://user-images.githubusercontent.com/71564211/147985209-833b80e2-6552-4ce8-b827-3aecc2a1804f.png)
 
-## DELETE BY ID https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/delete/{id}
+## DELETE BY ID 
+## 👉 https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/delete/{id}
 
 ![image](https://user-images.githubusercontent.com/71564211/147985328-0379709a-b54c-41cc-93a3-43a0937a7db2.png)
 

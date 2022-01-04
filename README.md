@@ -20,19 +20,23 @@
 
 ![image](https://user-images.githubusercontent.com/71564211/147984923-313bae65-8343-4c96-a6b7-41da252fc21f.png)
 
-## POST https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/post
+## POST 
+## 👉 https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/post
 
 ![image](https://user-images.githubusercontent.com/71564211/147984947-011e321a-a3e4-43bd-a8d8-e2280c798aac.png)
 
-## GET ALL https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/all
+## GET ALL 
+## 👉 https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/all
 
 ![image](https://user-images.githubusercontent.com/71564211/147984996-f07c4858-84c6-4d60-9516-13e65b321c40.png)
 
-## GET BY ID https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/all/{id}
+## GET BY ID 
+## 👉 https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/all/{id}
 
 ![image](https://user-images.githubusercontent.com/71564211/147985081-4a3337ed-87fc-494c-bd92-0e42294ce733.png)
 
-## UPDATE BY ID https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/put/{id}
+## UPDATE BY ID 
+## 👉 https://hoxton-oauth2-resourceserver.herokuapp.com/api/resources/put/{id}
 
 ![image](https://user-images.githubusercontent.com/71564211/147985209-833b80e2-6552-4ce8-b827-3aecc2a1804f.png)
 
